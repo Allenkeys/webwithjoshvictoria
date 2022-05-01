@@ -43,3 +43,13 @@ nav{
     justify-items: center;  
     color: white;  
 }
+#container-1{
+    background-color: main blue;
+}
+
+#container-2{
+    display: flex;
+}
+#container-3{
+    display: flex;
+}
